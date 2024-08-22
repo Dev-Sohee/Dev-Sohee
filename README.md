@@ -50,8 +50,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 😆Group Project😆
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&theme=date_night)](https://https://github.com/Dev-Sohee/Python-AI.git)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&theme=date_night)](https://github.com/Dev-Sohee/Python-AI.git)-->
 
 
 <br/>
