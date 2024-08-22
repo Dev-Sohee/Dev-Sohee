@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ## Welcome 👋
 
   *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
@@ -14,7 +16,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-💻Languages & Tools💻 
+<br/>
+
+
+
+🛠Languages & Tools🛠
 ---
 * **Main**   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
@@ -30,14 +36,24 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 <br/>
 
-⚡Toy Project⚡
+🎬Toy Project🎬
 ---
 
 <br/>
 <br/>
+
+🧑‍Group Project👩
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&bg_color=FFFFFF)](https://https://github.com/Dev-Sohee/Python-AI.git)
+
+
+<br/>
+<br/>
+
 
 Sohee's GitHub Stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
 
 
+</div>
