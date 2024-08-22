@@ -1,6 +1,11 @@
 <div align="center">
- 
-## ✨⭐Welcome⭐✨
+
+Sohee's GitHub Stats💖
+---
+![Sohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Sohee&theme=dracula&show_icons=true)
+
+
+## ✨Welcome✨
 
   *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
   *The main languages is Java and C/C++ can be used at basic levels.*   
@@ -45,16 +50,14 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 😆Group Project😆
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&bg_color=FFFFFF)](https://https://github.com/Dev-Sohee/Python-AI.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&theme=date_night)](https://https://github.com/Dev-Sohee/Python-AI.git)
+
 
 
 <br/>
 <br/>
 
 
-Sohee's GitHub Stats
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
 
 
 </div>
