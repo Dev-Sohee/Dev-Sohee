@@ -1,6 +1,6 @@
 <div align="center">
  
-## Welcome 👋
+## Welcome🐱
 
   *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
   *The main languages is Java and C/C++ can be used at basic levels.*   
@@ -43,7 +43,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 <br/>
 
-✨Group Project✨
+😆Group Project😆
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&bg_color=FFFFFF)](https://https://github.com/Dev-Sohee/Python-AI.git)
 
