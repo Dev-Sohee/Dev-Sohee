@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 ## ✨Welcome✨
 
@@ -14,15 +14,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-
-
-<br/>
-<br/>
-
-
-💖Sohee's GitHub Stats💖
----
-![Sohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Sohee&theme=dracula&show_icons=true)
 
 
 <br/>
@@ -61,6 +52,16 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 
 
+💖Sohee's GitHub Stats💖
+---
+![Sohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Sohee&theme=dracula&show_icons=true)
 
 
-</div>
+<br/>
+<br/>
+
+
+
+
+
+<!--</div>-->
