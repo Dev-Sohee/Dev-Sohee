@@ -1,6 +1,6 @@
 <div align="center">
  
-## Welcome🐱
+## ✨⭐Welcome⭐✨
 
   *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
   *The main languages is Java and C/C++ can be used at basic levels.*   
