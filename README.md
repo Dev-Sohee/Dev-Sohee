@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-*Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*
-*The main languages is Java and C/C++ can be used at basic levels.*
-*Always eager to optimize, learn, and grow.*
+  *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*
+  *The main languages is Java and C/C++ can be used at basic levels.*
+  *Always eager to optimize, learn, and grow.*
 
 
 <br/>
@@ -25,8 +25,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 * **Sub**   
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
-<img src="https://img.shields.io/badge/python-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
+<img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=MATLAB&logoColor=#007396"/></a>
+<img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=#007396"/></a>
 
 <br/>
 
