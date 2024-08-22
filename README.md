@@ -1,11 +1,10 @@
 ## Welcome 👋
 
-  *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*
-  *The main languages is Java and C/C++ can be used at basic levels.*
-  *Always eager to optimize, learn, and grow.*
+  *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
+  *The main languages is Java and C/C++ can be used at basic levels.*   
+  *Always eager to optimize, learn, and grow.*   
 
 
-<br/>
 
 <a href="https://dev-sohee.tistory.com/">
 <img src="http://img.shields.io/badge/-Tech%20Blog-03c65a?style=flat&logo=Bloglovin&link=https://dev-sohee.tistory.com/"
@@ -29,12 +28,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=#007396"/></a>
 
 <br/>
+<br/>
 
 ⚡Toy Project⚡
 ---
 
 <br/>
-
+<br/>
 
 Sohee's GitHub Stats
 ---
