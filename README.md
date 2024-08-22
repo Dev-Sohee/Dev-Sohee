@@ -25,8 +25,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 * **Sub**   
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=red"/></a>
-<img src="https://img.shields.io/badge/MATLAB-f6f644?style=flat-square&logo=MATLAB&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=CC342D"/></a>
+<img src="https://img.shields.io/badge/MATLAB-f6f644?style=flat-square&logo=MATLAB&logoColor=CC342D"/></a>
 
 
 
