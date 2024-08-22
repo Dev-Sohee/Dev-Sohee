@@ -22,13 +22,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 🛠Languages & Tools🛠
 ---
-* **Main**   
+**Main**   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C-f6f644?style=flat-square&logo=C&logoColor=#00599C"/></a>
 
-* **Sub**   
+**Sub**   
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=MATLAB&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=#007396"/></a>
@@ -42,7 +42,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 <br/>
 
-🧑‍Group Project👩
+✨Group Project✨
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Sohee&repo=Python-AI&show_icons=true&bg_color=FFFFFF)](https://https://github.com/Dev-Sohee/Python-AI.git)
 
