@@ -8,7 +8,8 @@
   Always eager to optimize, learn, and grow.   
 
 
-
+<br/>
+<br/>
 
 
 <a href="https://dev-sohee.tistory.com/">
@@ -19,8 +20,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-<br/>
-<br/>
+
 <br/>
 <br/>
 
