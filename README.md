@@ -5,7 +5,7 @@
   *Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.*   
   *The main languages is Java and C/C++ can be used at basic levels.*   
   *Always eager to optimize, learn, and grow.*   
-  <right><img src="https://github.com/user-attachments/assets/cc1055e4-732f-4579-9668-4ec0a5019417" width="300" height="300"></right>
+  <img align="right" src="https://github.com/user-attachments/assets/ba0aa5e1-fc3f-4390-a1d8-dc774b5be05d" width="300" height="200">
 
 
 
