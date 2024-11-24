@@ -3,8 +3,7 @@
 ## ✨Welcome✨
   <img align="right" src="https://github.com/user-attachments/assets/a21f5214-29cc-4874-85c0-d09c552c4db0" width="250" height="150">   
   
-  Junior backend developer with expertise in **Java**, **Spring Framework** and **Server Architecture**.   
-  The main languages is Java and C/C++ can be used at basic levels.    
+  Junior C/C++ developer with expertise in **C/C++**.   
   Always eager to optimize, learn, and grow.   
 
 
